@@ -13,7 +13,7 @@ Embeddiumを日本語に翻訳しました。
 
 # Links
 
-[[CurseForge](https://www.curseforge.com/minecraft/texture-packs/ejut)] [[GitHub]([https://github.com/2nd-penguin06329/Embeddium-Unofficial-Japanese-Translate](https://github.com/2nd-penguin06329/Embeddium-Unofficial-Japanese-Translate))] [[Discord](https://discord.gg/GezFJxTw)]
+[[CurseForge](https://www.curseforge.com/minecraft/texture-packs/ejut)] [[Modrinth]([[https://github.com/2nd-penguin06329/Embeddium-Unofficial-Japanese-Translate](https://github.com/2nd-penguin06329/Embeddium-Unofficial-Japanese-Translate](https://modrinth.com/resourcepack/eujt)))] [[Discord](https://discord.gg/GezFJxTw)]
 
 # Translation of game screens
 Video Settings(ビデオ設定)
